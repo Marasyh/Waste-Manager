@@ -1,5 +1,5 @@
 <?php
 
-class Composting {
+class Composting extends AbstractServices{
     
 }

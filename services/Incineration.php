@@ -1,5 +1,5 @@
 <?php
 
-class Incineration extends AbstractServices {
+class Incineration extends AbstractServices{
     
 }

@@ -1,5 +1,5 @@
 <?php
 
-class Recycling {
+class Recycling extends AbstractServices{
     
 }

@@ -1,5 +1,5 @@
 <?php
 
-class District {
+class District extends AbstractPlace{
     
 }
